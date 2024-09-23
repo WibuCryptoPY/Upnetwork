@@ -15,7 +15,7 @@ Install dependencies : Run file install.bat
 Fill data in file token.txt & proxy.txt
 
 Format proxy :
-http://user:pass@ip:port
+user:pass@ip:port
 
 # Step 4
 
